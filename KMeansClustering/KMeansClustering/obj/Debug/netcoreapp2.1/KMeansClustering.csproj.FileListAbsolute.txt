@@ -4,7 +4,6 @@ G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\bin\Debug\netcoreapp2.1\KM
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\bin\Debug\netcoreapp2.1\KMeansClustering.dll
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\bin\Debug\netcoreapp2.1\KMeansClustering.pdb
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\obj\Debug\netcoreapp2.1\KMeansClustering.csprojAssemblyReference.cache
-G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\obj\Debug\netcoreapp2.1\KMeansClustering.csproj.CoreCompileInputs.cache
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\obj\Debug\netcoreapp2.1\KMeansClustering.AssemblyInfoInputs.cache
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\obj\Debug\netcoreapp2.1\KMeansClustering.AssemblyInfo.cs
 G:\Rohith\Coding\ML\KMeansClustering\KMeansClustering\obj\Debug\netcoreapp2.1\KMeansClustering.dll
