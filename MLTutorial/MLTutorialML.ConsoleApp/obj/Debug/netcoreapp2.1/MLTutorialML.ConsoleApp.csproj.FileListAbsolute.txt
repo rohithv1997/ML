@@ -1,0 +1,14 @@
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.deps.json
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.runtimeconfig.json
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.runtimeconfig.dev.json
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.dll
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.pdb
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.Model.dll
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\bin\Debug\netcoreapp2.1\MLTutorialML.Model.pdb
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.csprojAssemblyReference.cache
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.AssemblyInfoInputs.cache
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.AssemblyInfo.cs
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.csproj.CopyComplete
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.dll
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.ConsoleApp\obj\Debug\netcoreapp2.1\MLTutorialML.ConsoleApp.pdb

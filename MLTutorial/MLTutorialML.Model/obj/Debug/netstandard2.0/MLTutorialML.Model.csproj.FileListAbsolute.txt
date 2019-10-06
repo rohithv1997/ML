@@ -1,0 +1,8 @@
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\bin\Debug\netstandard2.0\MLModel.zip
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\bin\Debug\netstandard2.0\MLTutorialML.Model.deps.json
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\bin\Debug\netstandard2.0\MLTutorialML.Model.dll
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\bin\Debug\netstandard2.0\MLTutorialML.Model.pdb
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.AssemblyInfoInputs.cache
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.AssemblyInfo.cs
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.dll
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.pdb

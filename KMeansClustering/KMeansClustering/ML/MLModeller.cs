@@ -2,6 +2,7 @@
 using Microsoft.ML;
 using System;
 using System.IO;
+using System.Linq;
 
 namespace KMeansClustering.ML
 {
@@ -17,7 +18,7 @@ namespace KMeansClustering.ML
 
             var model = pipeline.Fit(dataView);
             Console.WriteLine("Model Training Completed");
-            string _modelPath = rootDirectory + @"\Files\model.zip";
+            string _modelPath =GetOutputFile(rootDirectory);
 
             using (var fileStream = new FileStream(_modelPath, FileMode.Create, FileAccess.Write, FileShare.Write))
             {
@@ -41,5 +42,6 @@ namespace KMeansClustering.ML
 
             Console.WriteLine($"Distances: {string.Join(" ", prediction.Distances)}");
         }
+        private static string GetOutputFile(string rootDirectory) => Directory.GetFiles(rootDirectory, "model.zip", SearchOption.AllDirectories).FirstOrDefault();
     }
 }
