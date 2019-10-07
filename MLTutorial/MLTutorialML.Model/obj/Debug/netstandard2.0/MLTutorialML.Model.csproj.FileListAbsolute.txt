@@ -6,3 +6,4 @@ G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTut
 G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.AssemblyInfo.cs
 G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.dll
 G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.pdb
+G:\Rohith\Coding\ML\MLTutorial\MLTutorialML.Model\obj\Debug\netstandard2.0\MLTutorialML.Model.csprojAssemblyReference.cache

@@ -21,7 +21,7 @@ namespace MLTutorialML.Model
 
             // Load model & create prediction engine
             string modelPath = AppDomain.CurrentDomain.BaseDirectory + "MLModel.zip";
-            ITransformer mlModel = mlContext.Model.Load(modelPath, out var modelInputSchema);
+            ITransformer mlModel = mlContext.Model.Load(modelPath, out _);
             var predEngine = mlContext.Model.CreatePredictionEngine<ModelInput, ModelOutput>(mlModel);
 
             // Use model to make prediction on input data

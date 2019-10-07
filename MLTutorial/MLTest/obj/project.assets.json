@@ -7130,9 +7130,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Rohith\\Coding\\ML\\MLTutorial\\MLTest\\MLTest.csproj",
-      "projectName": "MLTest",
-      "projectPath": "G:\\Rohith\\Coding\\ML\\MLTutorial\\MLTest\\MLTest.csproj",
+      "projectUniqueName": "G:\\Rohith\\Coding\\ML\\MLTutorial\\MLTest\\MLTutorialTest.csproj",
+      "projectName": "MLTutorialTest",
+      "projectPath": "G:\\Rohith\\Coding\\ML\\MLTutorial\\MLTest\\MLTutorialTest.csproj",
       "packagesPath": "C:\\Users\\Rohith\\.nuget\\packages\\",
       "outputPath": "G:\\Rohith\\Coding\\ML\\MLTutorial\\MLTest\\obj\\",
       "projectStyle": "PackageReference",
