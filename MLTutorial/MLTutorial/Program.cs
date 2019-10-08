@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Reflection;
@@ -12,33 +11,29 @@ namespace MLTutorial
         static void Main(string[] args)
         {
             // Add input data
-            var input = new ModelInput();
-            input.SentimentText = GetRandomText();
+            var input = new ModelInput {SentimentText = GetRandomText()};
 
             // Load model and predict output of sample data
             ModelOutput result = ConsumeModel.Predict(input);
-            Console.WriteLine($"Text: {input.SentimentText}\nIs Toxic: {result.Prediction}");
+            Console.WriteLine($"Text: {input.SentimentText}\nIs Toxic: {result.Prediction.ToString()}");
         }
 
         private static string GetRandomText()
         {
-            var dataset = File.ReadLines(GetDataset(GetRootDirectory()));
+            var dataset = File.ReadLines(GetDataset).ToHashSet();
             return dataset.ElementAt(new Random().Next(0, dataset.Count() + 1)).Split('\t').LastOrDefault();
         }
 
         private static string GetRootDirectory(string currentDirectory = null)
         {
             currentDirectory ??= Directory.GetCurrentDirectory();
-            if (new DirectoryInfo(currentDirectory).Name != GetAssemblyName)
-            {
-                return GetRootDirectory(Directory.GetParent(currentDirectory).ToString());
-            }
-            return currentDirectory;
+            var dirInfo = new DirectoryInfo(currentDirectory);
+            return dirInfo.Name != GetAssemblyName ? GetRootDirectory(Directory.GetParent(currentDirectory).ToString()) : currentDirectory;
         }
 
         private static string GetAssemblyName => Assembly.GetExecutingAssembly().GetName().Name;
 
-        private static string GetDataset(string rootDirectory) => Directory.GetFiles(rootDirectory, "*.tsv", SearchOption.AllDirectories).FirstOrDefault();
+        private static string GetDataset => Directory.GetFiles(GetRootDirectory(), "*.tsv", SearchOption.AllDirectories).FirstOrDefault();
 
     }
 }

@@ -1,14 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="702c8f4a-6536-4b1a-83b5-80a773090bb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MLTest/obj/Debug/netcoreapp3.0/MLTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/Debug/netcoreapp3.0/MLTest.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTest.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.MLTutorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MLTutorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MLTutorial/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MLTutorial/DesignTimeBuild/.dtbcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MLTutorial/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MLTutorial/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/MLTutorial/v16/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/MLTutorial/v16/Server/sqlite3/storage.ide" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTest/obj/Debug/netcoreapp3.0/MLTutorialTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/Debug/netcoreapp3.0/MLTutorialTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/MLTutorialTest.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTest/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLModel.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLModel.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorial.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorialML.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorialML.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorialML.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/bin/Debug/netcoreapp3.0/MLTutorialML.Model.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/Debug/netcoreapp3.0/MLTutorial.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorial/obj/MLTutorial.csproj.nuget.g.props" afterDir="false" />
@@ -18,9 +28,12 @@
       <change beforePath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/MLTutorialML.ConsoleApp.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/MLTutorialML.ConsoleApp.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/MLTutorialML.ConsoleApp.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/MLTutorialML.ConsoleApp.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.ConsoleApp/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLModel.zip" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLModel.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/ConsumeModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/ConsumeModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLTutorialML.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLTutorialML.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLTutorialML.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/bin/Debug/netstandard2.0/MLTutorialML.Model.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/Debug/netstandard2.0/MLTutorialML.Model.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MLTutorialML.Model/obj/MLTutorialML.Model.csproj.nuget.g.props" afterDir="false" />
@@ -53,10 +66,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/MLTutorialML.Model/ModelInput.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E7E5FBEB-8FF9-4361-AC40-6E2BE797EAC7/95/5a332568/DirectoryInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MLTutorial/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MLTutorialML.ConsoleApp/ModelBuilder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MLTutorialML.Model/ModelOutput.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/MLTutorialML.Model/ConsumeModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MLTutorialML.Model/ConsumeModel.cs" />
+        <option value="$PROJECT_DIR$/MLTutorial/Program.cs" />
+      </list>
+    </option>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -138,20 +161,24 @@
       <option name="presentableId" value="Default" />
       <updated>1570362812493</updated>
       <workItem from="1570362846972" duration="1377000" />
+      <workItem from="1570465087696" duration="1010000" />
+      <workItem from="1570519015728" duration="438000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -169,16 +196,16 @@
         </breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/MLTutorial/Program.cs</url>
-          <line>8</line>
-          <properties documentPath="$PROJECT_DIR$/MLTutorial/Program.cs" initialLine="8">
+          <line>11</line>
+          <properties documentPath="$PROJECT_DIR$/MLTutorial/Program.cs" initialLine="11">
             <startOffsets>
-              <option value="136" />
+              <option value="197" />
             </startOffsets>
             <endOffsets>
-              <option value="137" />
+              <option value="198" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="2" />
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
